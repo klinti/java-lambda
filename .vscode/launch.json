@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "java-lambda_80927163"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - fruits",
             "request": "launch",
             "mainClass": "fruits",

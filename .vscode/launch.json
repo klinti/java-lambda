@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fruits",
+            "request": "launch",
+            "mainClass": "fruits",
+            "projectName": "java-lambda_80927163"
+        }
+    ]
+}
